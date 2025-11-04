@@ -20,7 +20,10 @@
     "noUnusedParameters": false,
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": false,
-
+    
+    /* Ignore TypeScript 6.0 deprecations */
+    "ignoreDeprecations": "6.0",
+    
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
