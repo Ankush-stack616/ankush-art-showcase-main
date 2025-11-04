@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ankush-stack616.github.io/ankush-art-showcase-main",
+  "homepage": "https://Ankush-stack616.github.io/ankush-art-showcase-main",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
