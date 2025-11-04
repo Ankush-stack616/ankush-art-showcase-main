@@ -45,6 +45,8 @@ const createFaviconDebugPlugin = (): Plugin => ({
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/ankush-art-showcase-main/',
+  plugins: [react()],
   server: {
     host: "::",
     port: 8081,
